@@ -1,1 +1,1 @@
-# Live chat based on socket.io library
+# Live chat made with socket.io
